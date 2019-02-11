@@ -1,20 +1,4 @@
 <resources>
-    <string name="app_name">OPSC7312 Assignment 1 - 15002928</string>
-    <string name="title_activity_question1b">Map</string>
-    <string name="title_activity_question2">Map</string>
-    <string name="htu_q1">Question is simple to use, straight and forward.\n\n
-Press “Refresh” to get Latitude, Longitude or Address if they don’t show.\n\n
-Now by pressing “Question - Map” it will show your current location within the Map.</string>
-    <string name="htu_q2">Click the small box on the top-right to take you to your current location.\n\n
-Click on the group-box to change through different types of maps, like Satellite, Hybrid and etc.\n\n
-Save your current location by clicking “Save My Location”. Enter your location title and details of your location will be shown. Now click “Save” to finally save your location.\n\n
-By clicking “My Places” it will show all of the places you’ve saved, by clicking on one of the places it will show the place details, or long-click on the place to delete it.</string>
-
-    <string-array name="map_type">
-        <item>Normal</item>
-        <item>Satellite</item>
-        <item>Hybrid</item>
-        <item>Terrain</item>
-        <item>None</item>
-    </string-array>
+    <string name="app_name">GoogleMapApp</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
